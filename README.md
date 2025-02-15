@@ -1,4 +1,5 @@
-https://www.kaggle.com/code/thebrownviking20/everything-you-can-do-with-a-time-series - original_post
+This notebook was written based on an article on kaggle.
+time series: https://www.kaggle.com/code/thebrownviking20/everything-you-can-do-with-a-time-series
 
 
 Aim
